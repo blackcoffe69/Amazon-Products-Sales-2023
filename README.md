@@ -163,4 +163,4 @@ Outlined below are key findings from the analysis of ratings by sector using Pie
 -   By tracking these trends over time, organizations can prioritize resources towards categories demonstrating high customer satisfaction, thereby reducing operational costs and optimizing business performance.
 
 
-    
+    <img width="574" alt="Amazon jp 1" src="https://github.com/blackcoffe69/Amazon-Products-Sales-2023/assets/154302970/c0372049-be18-4cea-950f-06e74aa355fa">
